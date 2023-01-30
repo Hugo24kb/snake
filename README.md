@@ -7,10 +7,10 @@ snake game using python (Not the one you know)
 
 
 ### Objects in games:
-- Snake (Main Character) `#00ffe4`
-- Rabbit (Grow the snake) `#ffffff`
-- Eden Apple (Offer boost) (good or evil?) `#ff0000`
-- Hunter (Kill the snake) `#41d50e`
+- Snake (Main Character) `#00ffe4` `turquoise`
+- Rabbit (Grow the snake) `#ffffff` `white`
+- Eden Apple (Offer boost) (good or evil?) `#ff0000` `red`
+- Hunter (Kill the snake) `#41d50e` `green`
 
 ## Gameplay ##
 
