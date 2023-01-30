@@ -4,7 +4,9 @@ snake game using python (Not the one you know)
 ## Purpose:
 > Try to survive one year
 
-Objects in games:
+
+
+### Objects in games:
 - Snake (Main Character) `#00ffe4`
 - Rabbit (Grow the snake) `#ffffff`
 - Eden Apple (Offer boost) (good or evil?) `#ff0000`
