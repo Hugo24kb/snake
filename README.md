@@ -1,5 +1,8 @@
-# sneaky snake
-snake game using python (Many rules differ from regular Snake you know)
+# Sneaky Snake (Graphics will be updated)
+snake game using python (Not the one you know)
+
+Purpose:
+Try to survive one year
 
 Objects in games:
 - Snake (Main Character)
@@ -7,8 +10,13 @@ Objects in games:
 - Eden Apple (Offer boost) (good or evil?)
 - Hunter (Kill the snake)
 
-Purpose:
-Try to survive one year
+## Gameplay ##
+
+In Game Scene
+<img width="1440" alt="螢幕截圖 2023-01-30 上午4 15 23" src="https://user-images.githubusercontent.com/79148563/215435783-e5291e98-8c94-4970-9ad4-1a93110458a8.png">
 
 Game Over Scene
-<img width="1440" alt="螢幕截圖 2023-01-30 上午3 30 33" src="https://user-images.githubusercontent.com/79148563/215426861-c0ffa0d5-72b7-4de2-8a3a-acf6a769c17b.png">
+<img width="1440" alt="螢幕截圖 2023-01-30 上午4 05 19" src="https://user-images.githubusercontent.com/79148563/215433508-30355661-c381-454a-b052-549cd6160c1b.png">
+
+Win Scene (Hidden) 
+Let me know if you beat the game fair and square!!!! <3
