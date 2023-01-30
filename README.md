@@ -5,10 +5,10 @@ snake game using python (Not the one you know)
 > Try to survive one year
 
 Objects in games:
-- Snake (Main Character) '#00ffe4'
-- Rabbit (Grow the snake) 'white'
-- Eden Apple (Offer boost) (good or evil?) 'red'
-- Hunter (Kill the snake) '#41d50e'
+- Snake (Main Character) `#00ffe4`
+- Rabbit (Grow the snake) `#ffffff`
+- Eden Apple (Offer boost) (good or evil?) `#ff0000`
+- Hunter (Kill the snake) `#41d50e`
 
 ## Gameplay ##
 
