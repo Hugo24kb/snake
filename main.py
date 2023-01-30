@@ -98,6 +98,8 @@ def next_rd(snake, rabbit, apple, hunter):
         speed -= 20
         label.config(text="Day:{}".format(day))
         canvas.delete("apple")
+        if day > 0 and day % 14 == 0:
+            apple = Apple()
     else:
         del snake.coordinates[-1]
         canvas.delete(snake.squares[-1])
