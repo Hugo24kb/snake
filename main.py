@@ -1,7 +1,7 @@
 from tkinter import *
 import random
 
-GAME_WIDTH = 800
+GAME_WIDTH = 1200
 GAME_HEIGHT = 800
 speed = 100
 SPACE_SIZE = 20
@@ -90,6 +90,8 @@ def next_rd(snake, rabbit, apple, hunter):
             apple = Apple()
         if day > 0 and day % 10 == 0:
             hunter = Hunter()
+        if day == 365:
+            win()
     elif x == apple.coordinates[0] and y == apple.coordinates[1]:
         day += 1
         global speed 
@@ -122,6 +124,11 @@ def game_over():
     canvas.delete(ALL)
     canvas.create_text(canvas.winfo_width()/2, canvas.winfo_height()/2,
                        font=('consolas', 50), text='You Are Dead', fill='red')
+
+def win():
+    canvas.delete(ALL)
+    canvas.create_text(canvas.winfo_width()/2, canvas.winfo_height()/2,
+                       font=('consolas', 50), text='<3 Thank you for playing, Congrats!', fill='green')
 
 window = Tk()
 window.title("sneaky snake")
