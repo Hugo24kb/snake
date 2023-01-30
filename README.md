@@ -1,14 +1,14 @@
 # Sneaky Snake (Graphics will be updated)
 snake game using python (Not the one you know)
 
-Purpose:
-Try to survive one year
+## Purpose:
+> Try to survive one year
 
 Objects in games:
-- Snake (Main Character)
-- Rabbit (Grow the snake)
-- Eden Apple (Offer boost) (good or evil?)
-- Hunter (Kill the snake)
+- Snake (Main Character) '#00ffe4'
+- Rabbit (Grow the snake) 'white'
+- Eden Apple (Offer boost) (good or evil?) 'red'
+- Hunter (Kill the snake) '#41d50e'
 
 ## Gameplay ##
 
