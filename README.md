@@ -21,4 +21,4 @@ Game Over Scene
 <img width="1440" alt="螢幕截圖 2023-01-30 上午4 05 19" src="https://user-images.githubusercontent.com/79148563/215433508-30355661-c381-454a-b052-549cd6160c1b.png">
 
 Win Scene (Hidden):
-Let me know if you beat the game fair and square!!!! <3
+> Let me know if you beat the game fair and square!!!! <3
