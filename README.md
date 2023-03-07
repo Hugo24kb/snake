@@ -1,5 +1,5 @@
 # Sneaky Snake
-snake game using python (Not the one you know)
+python snake game (Not the one you know)
 
 ## Purpose:
 > Try to survive one year
