@@ -1,4 +1,4 @@
-# Sneaky Snake (Graphics will be updated)
+# Sneaky Snake
 snake game using python (Not the one you know)
 
 ## Purpose:
